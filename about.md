@@ -1,7 +1,7 @@
 ---
 title: About us
 ---
-# Abount
+# About
 
 Về chúng tôi
 
